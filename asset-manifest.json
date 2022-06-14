@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/memocho/static/js/main.99f6f4c1.js",
+    "index.html": "/memocho/index.html",
+    "main.99f6f4c1.js.map": "/memocho/static/js/main.99f6f4c1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.99f6f4c1.js"
+  ]
+}
